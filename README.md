@@ -24,10 +24,5 @@ A simple **Todo List** application built using **HTML, CSS, and JavaScript** to 
 5. Click **"Clear All"** to delete all tasks.  
 6. Use the checkbox to mark tasks as completed.  
 
-## **Future Enhancements**  
-- Implement **localStorage** for task persistence  
-- Improve UI with animations and enhanced styling  
-- Introduce task categories and priorities  
-
 ## **Purpose of the Project**  
 This project was developed to gain hands-on experience with **JavaScript CRUD operations**, focusing on **DOM manipulation, event handling, and dynamic content updates**.  
