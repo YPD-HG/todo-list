@@ -10,21 +10,16 @@
     </div>
     <div>
         Add Task <input type="text" id="taskInput">
-        <button id="inputButton" onclick="addTask()">Add</button>
+        <button id="inputButton">Add</button>
     </div>
     <div id="taskHeader">
         Listed Tasks: <button onclick="clearAll()">Clear All</button>
     </div>
     <div id="taskList">
-
     </div>
     <script src="script.js"></script>
     <script>
-        document.getElementById("taskInput").addEventListener("keydown", function (event) {
-            if (event.key === "Enter") {
-                addTask();  // Call addTask() when Enter is pressed
-            }
-        });
+
     </script>
 </body>
 
